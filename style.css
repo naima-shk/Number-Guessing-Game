@@ -133,7 +133,7 @@ h5{
     border-radius: 10px;
     transition-duration: 0.4s;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Noto Sans', sans-serif;
   }
   #submitguess :hover {
     background: #2079B0;
